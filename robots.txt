@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pomirlan.github.io/sitemap
+Sitemap: https://pomirlan.github.io/app/sitemap
+Sitemap: https://pomirlan.github.io/assets/sitemap
+Sitemap: https://pomirlan.github.io/css/sitemap
+Sitemap: https://pomirlan.github.io/includes/sitemap
+Sitemap: https://pomirlan.github.io/item/sitemap
+Sitemap: https://pomirlan.github.io/src/sitemap
